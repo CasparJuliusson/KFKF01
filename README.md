@@ -1,2 +1,2 @@
 # KFKF01
-Labs code for KFKF01
+Lab code for KFKF01
